@@ -1,4 +1,4 @@
-# 2026-01-29 学習記録
+/ 2026-01-29 学習記録
 
 ## 今日やったこと
 - Java 基本文法 学習
@@ -13,3 +13,18 @@
 
 ## 明日の目標
 - クラス理解
+- classとobject
+- class＝(person, post, user）などのカテゴリー
+－obj=(person who named "jone", post that named "goods")などの実査のものや人などの対象
+/
+class dog {
+string name;
+
+void setName(string name) {
+this.name = name;
+}
+ string getName(){
+rturn name;
+ }
+}
+
